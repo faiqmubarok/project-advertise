@@ -1,0 +1,8 @@
+{
+    "name-product" : "Smart Slice",
+    "tag-product" : "Memotong Makanan Jadi Lebih Mudah!",
+    "banner-marquee": ["Big Sale!", "Special Promo!", "Discount up to 50%!", "Don't Miss It!"],
+    "price-before" : 76000,
+    "price-after" : 35000,
+    "category" : ["Peralatan Dapur", "Alat Masak", "Pisau", "Alat Pemotong", "Gadget Dapur", "Peralatan Rumah Tangga", "Alat Pemotong Serbaguna", "Alat Persiapan Makan"]
+}
